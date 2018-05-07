@@ -1,10 +1,6 @@
 # GridAccessbilityExtension Add-on for Vaadin 8
 
-${ComponentClassName} is a UI component add-on for Vaadin 8.
-
-## Online demo
-
-Try the add-on demo at <url of the online demo>
+GridAccessbilityExtension is an accessibility extension add-on for Vaadin 8 Grid.
 
 ## Download release
 
@@ -55,12 +51,6 @@ Debugging client side code in the grid-accessibility-extension-demo project:
 - ...
 - ...
 
-## Roadmap
-
-This component is developed as a hobby with no public roadmap or any guarantees of upcoming releases. That said, the following features are planned for upcoming releases:
-- ...
-- ...
-
 ## Issue tracking
 
 The issues for this add-on are tracked on its github.com page. All bug reports and feature requests are appreciated. 
@@ -84,27 +74,5 @@ GridAccessbilityExtension is written by <...>
 # Developer Guide
 
 ## Getting started
+For a comprehensive example, see src/test/java/org/vaadin/template/demo/DemoUI.java
 
-Here is a simple example on how to try out the add-on component:
-
-<...>
-
-For a more comprehensive example, see src/test/java/org/vaadin/template/demo/DemoUI.java
-
-## Features
-
-### Feature A
-
-<...>
-
-### Feature B
-
-<...>
-
-### Feature C
-
-<...>
-
-## API
-
-GridAccessbilityExtension JavaDoc is available online at <...>
