@@ -6,7 +6,7 @@
 	<artifactId>grid-accessibility-extension-demo</artifactId>
 	<packaging>war</packaging>
 	<version>1.0.0</version>
-	<name>GridAccessbilityExtension Add-on Demo</name>
+	<name>GridAccessibilityExtension Add-on Demo</name>
 
 	<prerequisites>
 		<maven>3</maven>
