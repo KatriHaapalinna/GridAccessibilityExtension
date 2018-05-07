@@ -6,7 +6,7 @@
 	<artifactId>grid-accessibility-extension-root</artifactId>
 	<packaging>pom</packaging>
 	<version>1.0.0</version>
-	<name>GridAccessbilityExtension Add-on Root Project</name>
+	<name>GridAccessibilityExtension Add-on Root Project</name>
 
 	<prerequisites>
 		<maven>3</maven>
