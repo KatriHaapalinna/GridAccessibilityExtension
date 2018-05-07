@@ -6,10 +6,10 @@
 	<artifactId>grid-accessibility-extension</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0.0</version>
-	<name>GridAccessbilityExtension Add-on</name>
+	<name>GridAccessibilityExtension Add-on</name>
 	<organization>
 		<name>Vaadin Community</name>
-		<url>https://github.com/katrihaapalinna/GridAccessbilityExtension/</url>
+		<url>https://vaadin.com/directory</url>
 	</organization>
 	<prerequisites>
 		<maven>3</maven>
@@ -35,14 +35,14 @@
 
 	<scm>
 		<url>git://github.com/katrihaapalinna/GridAccessbilityExtension.git</url>
-		<connection>scm:git:git://github.com/katrihaapalinna/GridAccessbilityExtension.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com:/katrihaapalinna/GridAccessbilityExtension.git</developerConnection>
-		<tag>GridAccessbilityExtension add-on for Vaadin Grid</tag>
+		<connection>scm:git:git://github.com/katrihaapalinna/GridAccessibilityExtension.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:/katrihaapalinna/GridAccessibilityExtension.git</developerConnection>
+		<tag>GridAccessibilityExtension add-on for Vaadin Grid</tag>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/katrihaapalinna/GridAccessbilityExtension/issues</url>
+		<url>https://github.com/katrihaapalinna/GridAccessibilityExtension/issues</url>
 	</issueManagement>
 
 	<licenses>
