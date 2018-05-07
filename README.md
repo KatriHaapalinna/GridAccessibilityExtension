@@ -1,6 +1,6 @@
 # GridAccessbilityExtension Add-on for Vaadin 8
 
-GridAccessbilityExtension is an accessibility extension add-on for Vaadin 8 Grid.
+GridAccessibilityExtension is an accessibility extension add-on for Vaadin 8 Grid.
 
 ## Download release
 
