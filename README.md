@@ -4,7 +4,7 @@ GridAccessibilityExtension is an accessibility extension add-on for Vaadin 8 Gri
 
 ## Download release
 
-Official releases of this add-on are available at Vaadin Directory. For Maven instructions, download and reviews, go to http://vaadin.com/addon/grid-accessibility-extension
+Official releases of this add-on are available at Vaadin Directory. For Maven instructions, download and reviews, go to https://vaadin.com/directory/component/gridaccessibilityextension-add-on
 
 ## Building and running demo
 
@@ -47,9 +47,8 @@ Debugging client side code in the grid-accessibility-extension-demo project:
  
 ## Release notes
 
-### Version 1.0.0
-- ...
-- ...
+### Version 1.0
+- initial release
 
 ## Issue tracking
 
@@ -69,10 +68,13 @@ Contributions are welcome, but there are no guarantees that they are accepted as
 
 Add-on is distributed under Apache License 2.0. For license terms, see LICENSE.txt.
 
-GridAccessbilityExtension is written by <...>
+GridAccessbilityExtension is written by Katri Haapalinna
 
 # Developer Guide
 
 ## Getting started
 For a comprehensive example, see src/test/java/org/vaadin/template/demo/DemoUI.java
 
+# Current limitations:
+- The extension will not work correctly if columns are reordered. Column reordering is not allowed by default in Grid, so if has not been explicitly enabled, this won't be an issue.
+- Header order – including empty headers – needs to be given to the extension as-is due to current limitations in Grid HeaderCell coupling with Columns and Cells
