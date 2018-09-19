@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/gridaccessibilityextension-add-on)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/gridaccessibilityextension-add-on.svg)](https://vaadin.com/directory/component/gridaccessibilityextension-add-on)
+
 # GridAccessbilityExtension Add-on for Vaadin 8
 
 GridAccessibilityExtension is an accessibility extension add-on for Vaadin 8 Grid.
